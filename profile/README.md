@@ -109,6 +109,8 @@ You will be in charge of junior devs while being hands-on yourself! You will hav
 
 ## 🎓 Interns (CodeCamp members) 🚀  
 
+Are you a fresh grad or a junior developer?
+
 Our **CodeCamp** is designed to help **junior developers** gain hands-on experience in real-world AI and web development while helping us build our product.
 Yes, you will be participating in our core team development process working on tasks suitable to your level and according to your interests.
 
@@ -130,18 +132,17 @@ Yes, you will be participating in our core team development process working on t
 - **Agile Development & Team Collaboration**  
 
 ### 📌 What's Included  
-✅ **3 interactive live coding sessions per week**  
+✅ **Daily 1-hour dev meetings to support you and make your development productive**  
 ✅ **Ongoing dev support on Discord**  
-✅ **Code reviews & mentoring**  
-✅ **Help with collaboration & teamwork**  
-✅ **Guidance on setting & achieving development objectives**  
-✅ **Support in understanding & structuring complex codebases**  
+✅ **Code reviews & mentoring (online and offline)**  
+✅ **Help you develop communication skills, collaboration & teamwork**
+✅ **Guidance on setting & achieving development objectives**
+✅ **Support in understanding & structuring complex code and architecture**  
 ✅ **Help with refactoring, coding templates, & best practices**  
 
 ### 🏗️ Program Details  
-📅 **Start Date:** First week of March (3-month program)  
 ⏳ **Time Commitment:** Please allocate at least 10 hours per week 
-💰 **Cost:** $25 per week
+💰 **Cost:** $25 per week (this will help you get more motivated and us keep the lights on)
 📍 **Remote Format:** Daily Live Google Meet sessions + Discord comms.
 🎯 **Flexibility:** No lock-in, drop out anytime or take up to 2 weeks off  
 
